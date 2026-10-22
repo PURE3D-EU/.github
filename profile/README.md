@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PURE3D-EU/.github/20ee773cd952a00102bf04dccd43928fa6995ff8/profile/banner.svg" alt="PURE3D — Publication and preservation of 3D scholarship." width="100%">
+  <img src="https://raw.githubusercontent.com/PURE3D-EU/.github/faac25d32192911872fbe8d4eda78b43305ac2b5/profile/banner.svg" alt="PURE3D — Publication and preservation of 3D scholarship." width="100%">
 </p>
+
+
+
+
 
 
 
@@ -14,7 +18,15 @@
 
 
 
+
+
+
+
 ## Bringing 3D into the scholarly record
+
+
+
+
 
 
 
@@ -24,12 +36,24 @@
 
 
 
+
+
+
+
 A scholarly 3D edition goes beyond a model: textual and multimedia annotations explain what an object represents, how it was created and the decisions behind its interpretation.
 
 
 
 
+
+
+
+
 ### Publish. Preserve. Explore.
+
+
+
+
 
 
 
@@ -41,7 +65,15 @@ A scholarly 3D edition goes beyond a model: textual and multimedia annotations e
 
 
 
+
+
+
+
 ## Start here
+
+
+
+
 
 
 
@@ -52,15 +84,9 @@ Visit [pure3d.eu](https://pure3d.eu) to learn about the project, partners, publi
 
 
 
+
+
+
+
 **For developers and contributors**  
 The [pure3d repository](https://github.com/PURE3D-EU/pure3d) contains the platform source code. Start with the [README](https://github.com/PURE3D-EU/pure3d#readme) and [development guide](https://github.com/PURE3D-EU/pure3d/blob/main/docs/development.md). Use [GitHub Issues](https://github.com/PURE3D-EU/pure3d/issues) to report a problem or discuss an improvement.
-
-
-
-
-### Built for the web
-
-
-
-
-[SvelteKit](https://svelte.dev/docs/kit) · [Svelte](https://svelte.dev) · [Smithsonian Voyager](https://smithsonian.github.io/dpo-voyager/) · [PocketBase](https://pocketbase.io) · [TypeScript](https://www.typescriptlang.org)
